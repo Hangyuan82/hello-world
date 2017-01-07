@@ -1,0 +1,9 @@
+init
+status
+add
+commit -m
+checkout -b
+checkout
+push origin branch
+pull origin branch
+clone
